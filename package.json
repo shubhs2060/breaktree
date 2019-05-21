@@ -1,0 +1,25 @@
+{
+  "name": "breaktree",
+  "version": "1.0.4",
+  "description": "Package to identify the root parent and shortest child in database system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhs2060/hierarchy.git"
+  },
+  "keywords": [
+    "root",
+    "parent",
+    "hierarchy",
+    "child"
+  ],
+  "author": "shubhs2050",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhs2060/hierarchy/issues"
+  },
+  "homepage": "https://github.com/shubhs2060/hierarchy#readme"
+}
