@@ -3,7 +3,8 @@ Break the complex tree structures in your db and get the data in simple form to 
 * Use the below function to get the hierarchy of the any attribute
 
 ```
-    getHierarchy(test,attribute,attributes)
+    var breaktree = require('breaktree');
+    breaktree.getHierarchy(test,attribute,attributes)
 
     The structure for the object must be in this form
 
@@ -28,7 +29,8 @@ Break the complex tree structures in your db and get the data in simple form to 
 * Use the below function to get the top root of any nested element
 
 ```
-    getRoot(attributes,attribute,root) 
+    var breaktree = require('breaktree');
+    breaktree.getRoot(attributes,attribute,root) 
 
     The structure for the object must be in this form
 
